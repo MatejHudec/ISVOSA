@@ -5,7 +5,7 @@ Zápisnica 2
 
 [Dávid Dobiáš](https://github.com/dobias13)
 [Dominik Dobiáš (zapisovateľ)](https://github.com/dobias14)
-[Martin Hudec](https://github.com/MatejHudec)
+[Matej Hudec](https://github.com/MatejHudec)
 [Michal Mesároš](https://github.com/GrEEman)
 
 ## Agenda 
@@ -24,7 +24,7 @@ Zápisnica 2
 
 ## Výsledky z minulých stretnutí
 
-* Martin zhotovil Gattov diagram.
+* Matej zhotovil Gattov diagram.
 
 * Podarilo sa nám aj vytvoriť spoločné úložisko spolu s prvou zápisnicou.
 
